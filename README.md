@@ -12,5 +12,5 @@ I used Smiple Html, Css, JavaScript to create  the front end.
 ## Back-end
 I used express and nodejs get and post request to get data from the serverand send it to the client
 
-"./Screenshot_2022-02-09_at_5.24.04_AM.png"
-"./Screenshot_2022-02-09_at_5.24.24_AM.png"
+<img width="1408" alt="Project Sample" src="https://user-images.githubusercontent.com/97471166/192152562-d395a76f-de04-4778-9c6e-8ad3c3199e44.png">
+<img width="1408" alt="Project Sample 2" src="https://user-images.githubusercontent.com/97471166/192152572-6a12e4ac-a727-4f5d-91f3-6884eb7c4174.png">
